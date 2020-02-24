@@ -111,9 +111,9 @@ analytics:
 author:
   name             : "Jiyoun Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Major in German Language and Literature."
+  bio              : "Study in Sungkyunkwan University. Major in German Language and Literature. Huge interest in Computational Linguistics."
   location         : "Seoul"
-  email            :
+  email            : jiyoun.kim9218@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

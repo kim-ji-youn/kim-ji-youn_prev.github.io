@@ -5,6 +5,6 @@ categories: blog
 ---
 
 I finally started my blog!
-[This post] is where I used it as a reference.
+[This post] is the reference that I used.
 
 [This post]: https://dreamgonfly.github.io/2018/01/27/jekyll-remote-theme.html

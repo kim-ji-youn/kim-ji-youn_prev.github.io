@@ -1,10 +1,10 @@
 ---
 title: "Start my Blog!"
 date: 2020-02-24
-categories: about blog
+categories: blog
 ---
 
 I finally started my blog!
-[Here] is where I use as reference.
+[This post] is where I used it as a reference.
 
-[Here]: https://dreamgonfly.github.io/2018/01/27/jekyll-remote-theme.html
+[This post]: https://dreamgonfly.github.io/2018/01/27/jekyll-remote-theme.html

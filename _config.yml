@@ -20,9 +20,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Jiyoun's"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Records of Me"
 name                     : "Jiyoun"
-description              : "Record of Me"
+description              : "-"
 url                      : "https://kim-ji-youn.github.io"
 baseurl                  : ""# the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -111,7 +111,7 @@ analytics:
 author:
   name             : "Jiyoun Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Study in Sungkyunkwan University. Major in German Language and Literature. Huge interest in Computational Linguistics."
+  bio              : "Study in Sungkyunkwan University. Major in German Language and Literature.Interested in Computational Linguistics."
   location         : "Seoul"
   email            : jiyoun.kim9218@gmail.com
   links:

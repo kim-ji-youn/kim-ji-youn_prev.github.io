@@ -1,5 +1,5 @@
 ---
-title: "List of Toy Projects"
+title: "A List of Toy Projects"
 date: 2020-02-25
 categories: toy_project
 comments: true

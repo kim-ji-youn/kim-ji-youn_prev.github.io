@@ -15,4 +15,4 @@ Here's a list of my toy projects for 2020!
 This list will be updated!
 
 
-#[Define Korean Stopwords and Remove them from Texts.]: kim-ji-youn/github.io
+#[Define Korean Stopwords and Remove them from Texts.]: kim-ji-youn/github.io/

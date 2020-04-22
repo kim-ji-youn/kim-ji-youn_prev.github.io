@@ -10,7 +10,7 @@ Here's a list of my toy projects for 2020!
 1. [Define Korean Stopwords and Remove them from Texts.] \[Korean\]
 2. Can We Predict Verb in Sentences? \[Korean\]
 3. Can We Distinguish 'ㅜ' or 'ㅠ' and 'ㅋ' in Different Contexts? \[Korean\]
-4. [Make Toy Chatbot.] \[Korean\]
+4. [Make Toy Chatbot.]  \[Korean\]
 
 
 This list will be updated!

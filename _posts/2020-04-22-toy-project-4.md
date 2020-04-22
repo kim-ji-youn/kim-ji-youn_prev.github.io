@@ -1,5 +1,5 @@
 ---
-title: "[TOY PROJECT] Korean Stopword"
+title: "[TOY PROJECT] Chatbot"
 date: 2020-02-25
 categories: toy-project
 comments: true

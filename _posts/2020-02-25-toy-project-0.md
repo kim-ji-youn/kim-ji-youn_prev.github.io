@@ -17,4 +17,4 @@ This list will be updated!
 
 
 [Define Korean Stopwords and Remove them from Texts.]: https://kim-ji-youn.github.io/toy-project/toy-project-1/
-[Toy Chatbot.] : http://kim-ji-youn.github.io/toy-project/toy-project-4/
+[Make Toy Chatbot.] : http://kim-ji-youn.github.io/toy-project/toy-project-4/

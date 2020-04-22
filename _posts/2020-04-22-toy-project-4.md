@@ -11,5 +11,6 @@ tags : [NLP,CL, Python, Chatbot]
 
 1. 음성인식
 사용자의 입력을 받는 음성 인식은 구글의 API를 사용합니다.  
-구글의 음성인식 API를 사용하는 방법은 [이글]을 참고하였습니다. 
-[이글]: https://webnautes.tistory.com/1247
+구글의 음성인식 API를 사용하는 방법은 [이 글]을 참고하였습니다. 
+
+[이 글]: https://webnautes.tistory.com/1247

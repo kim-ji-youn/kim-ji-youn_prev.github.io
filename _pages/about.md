@@ -6,7 +6,9 @@ toc: true
 ---
 
 Hi! I am Jiyoun(김지연)!
-I am studying in the German Language and Literature Department at Sungkyunkwan University in South Korea, advised by Professor Munpyo Hong.   
+
+I am studying in the German Language and Literature Department at Sungkyunkwan University in South Korea, advised by Professor Munpyo Hong.
+
 I am interested in computational semantics and pragmatics. Now I focus on studying linguistic expressions that have implicitly and explicitly different meanings. My master degree's thesis is about detecting metaphorical expressions using machine learning with linguistic features.  
 I am travel lover, cinephile, and yogini
 
@@ -54,8 +56,10 @@ I am travel lover, cinephile, and yogini
     + 2020: Optimizing Segmentation Method for Simultaneous Interpretation
     
 * with **[SK Telecom]** (2017 ~ 2019) as *Researh Assistant*
+
 [SK Telecom]: https://www.sktelecom.com/index_en.html
   - for improving performance of [NUGU], AI speaker
+  
   [NUGU]: https://www.koreatimes.co.kr/www/tech/2019/04/133_267403.html
     + constructed query corpus for training question and answering systems
     + detected error types in morphology analysis of Named Entities and query sentences 

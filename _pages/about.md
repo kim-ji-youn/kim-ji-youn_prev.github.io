@@ -27,12 +27,12 @@ I am travel lover, cinephile, and yogini
 
 ## Research Projects
 * with **[Electronics and Telecommunication Research Institute (ETRI)]** (2016 ~ Present) as *Reserach Assistant*
-[Electronics and Telecommunication Research Institute (ETRI)]:https://www.etri.re.kr/eng/main/main.etri
+[Electronics and Telecommunication Research Institute (ETRI)]: https://www.etri.re.kr/eng/main/main.etri
   - Applied segmentation strategies for simultaneous interpretation system for English and Korean
   - Designed and developed an algorithm to implement ideal segmentation strategy to detect optimal segmentation units
   - was applied as part of [Genie talk], the official translation app for the [2018 PyeongChang Winter Olympics].
-  [Genie talk]:https://play.google.com/store/apps/details?id=com.hancom.interfree.genietalk&hl=en_US&gl=US
-  [2018 PyeongChang Winter Olympics]:https://www.olympic.org/pyeongchang-2018
+  [Genie talk]: https://play.google.com/store/apps/details?id=com.hancom.interfree.genietalk&hl=en_US&gl=US
+  [2018 PyeongChang Winter Olympics]: https://www.olympic.org/pyeongchang-2018
     + 2016: A linguistic study on translation for simultaneous interpretation system
       + surveyed simultaneous interpretation strategies done by human interpreter
       + proposed heuristic rules to segmentation and did experiment
@@ -52,9 +52,11 @@ I am travel lover, cinephile, and yogini
     + 2020: Optimizing Segmentation Method for Simultaneous Interpretation
     
 * with **[SK Telecom]** (2017 ~ 2019) as *Researh Assistant*
-[SK Telecom]:https://www.sktelecom.com/index_en.html
+[SK Telecom]: https://www.sktelecom.com/index_en.html
   - for improving performance of [NUGU], AI speaker
-  [NUGU]:https://www.koreatimes.co.kr/www/tech/2019/04/133_267403.html
-    + 
+  [NUGU]: https://www.koreatimes.co.kr/www/tech/2019/04/133_267403.html
+    + constructed query corpus for training question and answering systems
+    + detected error types in morphology analysis of Named Entities and query sentences 
+    + established guidelines for corpus generation and error detection
   
 

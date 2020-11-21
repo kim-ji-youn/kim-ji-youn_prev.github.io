@@ -26,7 +26,7 @@ I am travel lover, cinephile, and yogini
 \[2018\]
 * Y. E. Koo, **J. Y. Kim**, M. P. Hong, Y. K. Kim, *“A Linguistic Study of Automatic Speech Act Classification for Korean Dialog.”* Journal of Korean Institute of Information Scientists and Engineers (KIISE). 45(8). pp. 807-815. 2018. \[in Korean\] 
 
-## R
+## RESEARCH PROJECTS
 * with **[Electronics and Telecommunication Research Institute (ETRI)]** (2016 ~ Present) as *Reserach Assistant*
   - Applied segmentation strategies for simultaneous interpretation system for English and Korean
   - Designed and developed an algorithm to implement ideal segmentation strategy to detect optimal segmentation units

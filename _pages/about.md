@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About Me"
 last_modified_at: 2020-09-09
-toc: true
+toc: false
 ---
 
 Hi! I am Jiyoun(김지연)!
@@ -11,7 +11,7 @@ I am studying in the German Language and Literature Department at Sungkyunkwan U
 I am interested in computational semantics and pragmatics. Now I focus on studying linguistic expressions that have implicitly and explicitly different meanings. My master degree's thesis is about detecting metaphorical expressions using machine learning with linguistic features.  
 I am travel lover, cinephile, and yogini
 
-## Publication
+## PUBLICATIONS
 ### Conference
 \[2020\]
 * Y. E. Koo, **J. Y. Kim**, J. P. Hong, M. P. Hong, S-K. Choi, *“Towards a Linguistically Motivated Segmentation for a Simultaneous Interpretation System.”* Proceedings of the 34th Pacific Asia Conference on Language, Information and Computation (PACLIC 34). Hanoi, Vietnam. 2020. – oral presentation
@@ -63,3 +63,15 @@ I am travel lover, cinephile, and yogini
 
 [SK Telecom]: https://www.sktelecom.com/index_en.html
 [NUGU]: https://www.koreatimes.co.kr/www/tech/2019/04/133_267403.html
+
+
+## EXTRACURRICULAR ACTIVITIES
+* C-School projects
+* Co-deep learning
+* [Sungkyunkwan Orchestra]
+  - Second Violin
+  - Started as novice and ended with The Nutcracker(Op.71) composed by Tchaikovsky
+* Yoga
+  - certified as instructor
+
+[Sungkyunkwan Orchestra]: https://www.youtube.com/channel/UCjKqKdXrBXueTrcRDOtzgHA

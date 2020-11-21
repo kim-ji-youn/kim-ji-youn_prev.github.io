@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About Me"
 last_modified_at: 2020-09-09
-toc: false
+toc: true
 ---
 
 Hi! I am Jiyoun(김지연)!

@@ -8,7 +8,6 @@ toc: true
 Hi! I am Jiyoun(김지연)!
 
 I am studying in the German Language and Literature Department at Sungkyunkwan University in South Korea, advised by Professor Munpyo Hong.
-
 I am interested in computational semantics and pragmatics. Now I focus on studying linguistic expressions that have implicitly and explicitly different meanings. My master degree's thesis is about detecting metaphorical expressions using machine learning with linguistic features.  
 I am travel lover, cinephile, and yogini
 
@@ -37,6 +36,7 @@ I am travel lover, cinephile, and yogini
   
   [Genie talk]: https://play.google.com/store/apps/details?id=com.hancom.interfree.genietalk&hl=en_US&gl=US
   [2018 PyeongChang Winter Olympics]: https://www.olympic.org/pyeongchang-2018
+    
     + 2016: A linguistic study on translation for simultaneous interpretation system
       + surveyed simultaneous interpretation strategies done by human interpreter
       + proposed heuristic rules to segmentation and did experiment
@@ -61,6 +61,7 @@ I am travel lover, cinephile, and yogini
   - for improving performance of [NUGU], AI speaker
   
   [NUGU]: https://www.koreatimes.co.kr/www/tech/2019/04/133_267403.html
+    
     + constructed query corpus for training question and answering systems
     + detected error types in morphology analysis of Named Entities and query sentences 
     + established guidelines for corpus generation and error detection

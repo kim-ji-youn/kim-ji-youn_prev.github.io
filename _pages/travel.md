@@ -11,14 +11,10 @@ toc: true
   
 [Gyeongju]: https://en.wikipedia.org/wiki/Gyeongju
 
-* Sydney, Australia (Feb.)
+* Australia (Feb.)
   - Family Trip before covid-19
-  - Oper house, 
-* Brisbane, Australia (Feb.)
+  - Sydney, Brisbane and Gold coast
   - For celebrating the graduation of my sister!
-
-* Gold coast, Australia (Feb.)
-
   
 ## 2019
 * Melbourne, Australia (Oct.)

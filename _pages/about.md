@@ -27,7 +27,7 @@ I am travel lover, cinephile, and yogini
 
 ## Research Projects
 * with **[Electronics and Telecommunication Research Institute (ETRI)]** (2016 ~ Present) as *Reserach Assistant*
-[Electronics and Telecommunication Research Institute (ETRI)]: https://www.etri.re.kr/eng/main/main.etri
+[Electronics and Telecommunication Research Institute (ETRI)] : https://www.etri.re.kr/eng/main/main.etri
   - Applied segmentation strategies for simultaneous interpretation system for English and Korean
   - Designed and developed an algorithm to implement ideal segmentation strategy to detect optimal segmentation units
   - was applied as part of [Genie talk], the official translation app for the [2018 PyeongChang Winter Olympics].

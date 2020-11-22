@@ -68,7 +68,7 @@ I am travel lover, cinephile, and yogini
 [NUGU]: https://www.koreatimes.co.kr/www/tech/2019/04/133_267403.html
 
 
-## EXTRACURRICULAR ACTIVITIES (CS related)
+## EXTRACURRICULAR ACTIVITIES
 * **C-School projects**
   - Collaborated with advisor professor (Prof. Yungyung Cheong) and students majoring in Computer Science
   - Led project on constructing model for data crawling, data pre-processing and information extraction 

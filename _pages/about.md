@@ -91,11 +91,7 @@ I am travel lover, cinephile, and yogini
 
 
 
-* **Yoga**
-  - Since 2016
-  - Certified as instructor
-  
-  <image src = "https://user-images.githubusercontent.com/29218174/99907123-5d266c00-2d1e-11eb-85f6-179e01091d08.png">
+
 
 
 * **[Sungkyunkwan Orchestra]**
@@ -106,6 +102,18 @@ I am travel lover, cinephile, and yogini
   
 [Sungkyunkwan Orchestra]: https://www.youtube.com/channel/UCjKqKdXrBXueTrcRDOtzgHA
   <img src = "https://user-images.githubusercontent.com/29218174/99908154-4b47c780-2d24-11eb-8879-c7629dacf38b.jpeg">
+
+
+
+
+* **Yoga**
+  - Since 2016
+  - Certified as instructor
+  
+  <image src = "https://user-images.githubusercontent.com/29218174/99907123-5d266c00-2d1e-11eb-85f6-179e01091d08.png">
+
+
+
 
     
 

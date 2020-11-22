@@ -68,7 +68,7 @@ I am travel lover, cinephile, and yogini
 [NUGU]: https://www.koreatimes.co.kr/www/tech/2019/04/133_267403.html
 
 
-## EXTRACURRICULAR ACTIVITIES
+## EXTRACURRICULAR ACTIVITIES (CS related)
 * **C-School projects**
   - Collaborated with advisor professor (Prof. Yungyung Cheong) and students majoring in Computer Science
   - Led project on constructing model for data crawling, data pre-processing and information extraction 
@@ -76,9 +76,7 @@ I am travel lover, cinephile, and yogini
   - applied for patent based on the project
   - My team and I !!
   
-  <div>
   <image src = "https://user-images.githubusercontent.com/29218174/99907499-67496a00-2d20-11eb-8b26-6bf0fa4936ce.jpg">
-  </div>
   
   
 * **Co-deep learning**
@@ -87,11 +85,16 @@ I am travel lover, cinephile, and yogini
     - Lectures of Neural Networks and Deep Learning (on Coursera, Andrew Ng)
     - Lectures of Stanford University CS224n: Natural Language Processing with Deep Learning (on YouTube)
     - Deep Learning from Scratch (S. Goki, 2017)
-
+<div>
  <image src = "https://user-images.githubusercontent.com/29218174/99907582-f787af00-2d20-11eb-8a53-9b7baf9e4120.jpg">
-
-
-
+   </div>
+  
+* **Pyneer**
+  - Student club that does anything with programming
+  - I even made a little cute game.. Isn't it so cute?
+  
+  <image src = "https://user-images.githubusercontent.com/29218174/99910057-57855200-2d2f-11eb-839b-aaf1791c0b71.jpg">
+  
 
 
 

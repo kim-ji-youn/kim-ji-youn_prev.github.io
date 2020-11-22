@@ -69,7 +69,7 @@ I am travel lover, cinephile, and yogini
 
 
 ## EXTRACURRICULAR ACTIVITIES
-* C-School projects
+* **C-School projects**
   - Collaborated with advisor professor (Prof. Yungyung Cheong) and students majoring in Computer Science
   - Led project on constructing model for data crawling, data pre-processing and information extraction 
   - Made a system using Seq2Seq model to generate catchphrase using movie synopsis
@@ -78,23 +78,31 @@ I am travel lover, cinephile, and yogini
   
   <image src = "https://user-images.githubusercontent.com/29218174/99907499-67496a00-2d20-11eb-8b26-6bf0fa4936ce.jpg">
   
-* Co-deep learning
+  
+  
+* **Co-deep learning**
   - Organized whole curriculum to learn deep learning and discussed on weekly basis
   - Made own materials based on 
-    + Lectures of Neural Networks and Deep Learning (on Coursera, Andrew Ng)
-    + Lectures of Stanford University CS224n: Natural Language Processing with Deep Learning (on YouTube)
-    + Deep Learning from Scratch (S. Goki, 2017)
+    - Lectures of Neural Networks and Deep Learning (on Coursera, Andrew Ng)
+    - Lectures of Stanford University CS224n: Natural Language Processing with Deep Learning (on YouTube)
+    - Deep Learning from Scratch (S. Goki, 2017)
 
  <image src = "https://user-images.githubusercontent.com/29218174/99907582-f787af00-2d20-11eb-8a53-9b7baf9e4120.jpg">
-* [Sungkyunkwan Orchestra]
+
+
+* **[Sungkyunkwan Orchestra]**
   - Second Violin
   - Started as novice and ended with The Nutcracker(Op.71) composed by Tchaikovsky
   
   <img src = "https://user-images.githubusercontent.com/29218174/99908154-4b47c780-2d24-11eb-8879-c7629dacf38b.jpeg">
   <img src = "https://user-images.githubusercontent.com/29218174/99908163-5f8bc480-2d24-11eb-9669-93ab79860bf0.jpeg">
   
-* Yoga
+
+* **Yoga**
+  - Since 2016
   - Certified as instructor
+  
+  
   <image src = "https://user-images.githubusercontent.com/29218174/99907123-5d266c00-2d1e-11eb-85f6-179e01091d08.png">
 
 [Sungkyunkwan Orchestra]: https://www.youtube.com/channel/UCjKqKdXrBXueTrcRDOtzgHA

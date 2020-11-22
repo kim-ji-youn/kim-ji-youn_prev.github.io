@@ -83,14 +83,13 @@ I am travel lover, cinephile, and yogini
 * **Co-deep learning**
   - Organized whole curriculum to learn deep learning and discussed on weekly basis
   - Made own materials based on 
-    - Lectures of Neural Networks and Deep Learning (on Coursera, Andrew Ng)
-    - Lectures of Stanford University CS224n: Natural Language Processing with Deep Learning (on YouTube)
-    - Deep Learning from Scratch (S. Goki, 2017)
+   1. Lectures of Neural Networks and Deep Learning (on Coursera, Andrew Ng)
+   2. Lectures of Stanford University CS224n: Natural Language Processing with Deep Learning (on YouTube)
+   3. Deep Learning from Scratch (S. Goki, 2017)
 
  <image src = "https://user-images.githubusercontent.com/29218174/99907582-f787af00-2d20-11eb-8a53-9b7baf9e4120.jpg">
 
 
-***
 
 * **[Sungkyunkwan Orchestra]**
   

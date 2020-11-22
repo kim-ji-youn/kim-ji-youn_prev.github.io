@@ -93,9 +93,11 @@ I am travel lover, cinephile, and yogini
 * **[Sungkyunkwan Orchestra]**
   - Second Violin
   - Started as novice and ended with The Nutcracker(Op.71) composed by Tchaikovsky
-  - See? My stickers are still on my violin X)
+  - See? My stickers were still on my violin X)
+  
   
   <img src = "https://user-images.githubusercontent.com/29218174/99908154-4b47c780-2d24-11eb-8879-c7629dacf38b.jpeg">
+  
   
 
 * **Yoga**

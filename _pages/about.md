@@ -76,7 +76,7 @@ I am travel lover, cinephile, and yogini
   - applied for patent based on the project
   - My team and I !!
   
-  <image width = "400" height = "200" src = "https://user-images.githubusercontent.com/29218174/99907499-67496a00-2d20-11eb-8b26-6bf0fa4936ce.jpg">
+  <image src = "https://user-images.githubusercontent.com/29218174/99907499-67496a00-2d20-11eb-8b26-6bf0fa4936ce.jpg">
   
 * Co-deep learning
   - Organized whole curriculum to learn deep learning and discussed on weekly basis

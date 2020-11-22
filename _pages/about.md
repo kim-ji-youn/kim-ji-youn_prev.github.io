@@ -95,13 +95,11 @@ I am travel lover, cinephile, and yogini
   - Started as novice and ended with The Nutcracker(Op.71) composed by Tchaikovsky
   
   <img src = "https://user-images.githubusercontent.com/29218174/99908154-4b47c780-2d24-11eb-8879-c7629dacf38b.jpeg">
-  <img src = "https://user-images.githubusercontent.com/29218174/99908163-5f8bc480-2d24-11eb-9669-93ab79860bf0.jpeg">
   
 
 * **Yoga**
   - Since 2016
   - Certified as instructor
-  
   
   <image src = "https://user-images.githubusercontent.com/29218174/99907123-5d266c00-2d1e-11eb-85f6-179e01091d08.png">
 

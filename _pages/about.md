@@ -76,7 +76,7 @@ I am travel lover, cinephile, and yogini
   - applied for patent based on the project
   - My team and I !!
   
-  <image src = "https://user-images.githubusercontent.com/29218174/99907499-67496a00-2d20-11eb-8b26-6bf0fa4936ce.jpg">
+  <image src = "https://user-images.githubusercontent.com/29218174/99907499-67496a00-2d20-11eb-8b26-6bf0fa4936ce.jpg" alt = "My team and I">
   
   
   
@@ -88,6 +88,8 @@ I am travel lover, cinephile, and yogini
     - Deep Learning from Scratch (S. Goki, 2017)
 
  <image src = "https://user-images.githubusercontent.com/29218174/99907582-f787af00-2d20-11eb-8a53-9b7baf9e4120.jpg">
+
+
 
 
 * **[Sungkyunkwan Orchestra]**

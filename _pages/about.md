@@ -76,5 +76,6 @@ I am travel lover, cinephile, and yogini
   - Started as novice and ended with The Nutcracker(Op.71) composed by Tchaikovsky
 * Yoga
   - certified as instructor
+  <image src = "https://user-images.githubusercontent.com/29218174/99907123-5d266c00-2d1e-11eb-85f6-179e01091d08.png">
 
 [Sungkyunkwan Orchestra]: https://www.youtube.com/channel/UCjKqKdXrBXueTrcRDOtzgHA

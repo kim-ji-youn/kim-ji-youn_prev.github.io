@@ -86,7 +86,7 @@ I am travel lover, cinephile, and yogini
     - Lectures of Stanford University CS224n: Natural Language Processing with Deep Learning (on YouTube)
     - Deep Learning from Scratch (S. Goki, 2017)
 
- <image src = "https://user-images.githubusercontent.com/29218174/99907582-f787af00-2d20-11eb-8a53-9b7baf9e4120.jpg">
+ <image width = 200 height = 400 rc = "https://user-images.githubusercontent.com/29218174/99907582-f787af00-2d20-11eb-8a53-9b7baf9e4120.jpg">
 
 
 ## What else...

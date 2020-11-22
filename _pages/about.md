@@ -74,8 +74,7 @@ I am travel lover, cinephile, and yogini
   - Led project on constructing model for data crawling, data pre-processing and information extraction 
   - Made a system using Seq2Seq model to generate catchphrase using movie synopsis
   - applied for patent based on the project
-  - My team and I !!
-  
+
   <image src = "https://user-images.githubusercontent.com/29218174/99907499-67496a00-2d20-11eb-8b26-6bf0fa4936ce.jpg">
   
   
@@ -86,12 +85,9 @@ I am travel lover, cinephile, and yogini
     - Lectures of Stanford University CS224n: Natural Language Processing with Deep Learning (on YouTube)
     - Deep Learning from Scratch (S. Goki, 2017)
 
- <image align = "center" width = "300" height = "500" src = "https://user-images.githubusercontent.com/29218174/99907582-f787af00-2d20-11eb-8a53-9b7baf9e4120.jpg">
+  <image src = "https://user-images.githubusercontent.com/29218174/99907582-f787af00-2d20-11eb-8a53-9b7baf9e4120.jpg">
 
 
-
-
-## What else...
 * **Pyneer**
   - Student club that does anything with programming
   - I even made a little cute game.. Isn't it so cute?

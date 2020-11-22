@@ -19,8 +19,11 @@ I am travel lover, cinephile, and yogini
 
 \[2019\]
 * **J. Y. Kim**, Y. E. Koo, Y. J. Zhu, *“A Study for Categorizing Relations between Headword and Aliases.”* Proceedings of the Association for Information Science and Technology (ASIS&T 2019). Melbourne, Australia. 2019. – poster
-* Y. E. Koo, **J. Y. Kim**, M. P. Hong, *“Automatic Speech Act Classification based on the Hierarchical Structure of Speech Act Categories”* Proceedings of the 33rd Pacific Asia Conference on Language, Information and Computation (PACLIC 33). Hakodate, Japan. 2019. – poster presentation
-* Y. E. Koo, **J. Y. Kim**, M. P. Hong, *“A Study on Segmentation Unit for Real-time Simultaneous Interpretation System.”* Proceedings of the 31st Annual Conference on Human and Cognitive Language Technology (HCLT 31). Daejeon, Korea. 2019. – oral presentation [in Korean]
+* Y. E. Koo, **J. Y. Kim**, M. P. Hong, *[“Automatic Speech Act Classification based on the Hierarchical Structure of Speech Act Categories”]* Proceedings of the 33rd Pacific Asia Conference on Language, Information and Computation (PACLIC 33). Hakodate, Japan. 2019. – poster presentation
+* Y. E. Koo, **J. Y. Kim**, M. P. Hong, *“A Study on Segmentation Unit for Real-time Simultaneous Interpretation System.”* Proceedings of the 31st Annual Conference on Human and Cognitive Language Technology (HCLT 31). Daejeon, Korea. 2019. – oral presentation \[in Korean\]
+
+
+[“Automatic Speech Act Classification based on the Hierarchical Structure of Speech Act Categories”]: http://jaslli.org/files/proceedings/50_paclic33_postconf.pdf
 
 ### Journal
 \[2018\]

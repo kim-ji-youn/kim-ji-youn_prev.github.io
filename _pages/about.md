@@ -87,7 +87,7 @@ I am travel lover, cinephile, and yogini
     - Deep Learning from Scratch (S. Goki, 2017)
 <div>
  <image src = "https://user-images.githubusercontent.com/29218174/99907582-f787af00-2d20-11eb-8a53-9b7baf9e4120.jpg">
-   </div>
+</div>
   
 * **Pyneer**
   - Student club that does anything with programming

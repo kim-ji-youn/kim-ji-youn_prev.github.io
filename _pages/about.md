@@ -5,7 +5,7 @@ last_modified_at: 2020-09-09
 toc: true
 ---
 
-Hi! I am Jiyoun(김지연)!
+Hi! I am Jiyoun\[ɡim ʣʲi.jʌn\]!
 
 I am studying in the German Language and Literature Department at Sungkyunkwan University in South Korea, advised by Professor Munpyo Hong.
 I am interested in computational semantics and pragmatics. Now I focus on studying linguistic expressions that have implicitly and explicitly different meanings. My master degree's thesis is about detecting metaphorical expressions using machine learning with linguistic features.  

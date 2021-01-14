@@ -6,5 +6,3 @@ comments: true
 tags : [NLP,CL, Python]
 ---
 
-What is Stopwords?  
-불용어(Stopword)란?

@@ -12,7 +12,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "ko-KR"
 title                    : "Jiyoun's"
 title_separator          : "-"
-subtitle                 : "김지연은 무엇을 배우는가?"
+subtitle                 : "Who are you, Jiyoun?"
 name                     : "Jiyoun's info"
 description              : "공부하는 모든 것을 기록해두는 곳"
 url                      : "https://kim-ji-youn.github.io"
@@ -286,7 +286,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true
       share: true
       related: true

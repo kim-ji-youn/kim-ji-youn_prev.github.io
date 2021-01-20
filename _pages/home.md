@@ -1,5 +1,5 @@
 ---
-title: "Jiyoun Kim
+title: "Jiyoun Kim"
 layout: splash
 permalink: /
 header:

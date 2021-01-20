@@ -1,6 +1,8 @@
 ---
-title: "I'm Jiyoun Kim
+title: "Jiyoun Kim
 layout: splash
 permalink: /
-hidden: true
+header:
+
+exceprt: "I'm Jiyoun Kim, study Computational Linguistics." 
 ---

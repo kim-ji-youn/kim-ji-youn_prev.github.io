@@ -4,14 +4,16 @@
 
 // https://mmistakes.github.io/minimal-mistakes/docs/stylesheets/#customizing
 $sans-serif: 'Noto Sans KR';
-$monospace: 'Ubuntu Mono';
+//$monospace: 'Ubuntu Mono';
+$monospach: 'Open Sans';
 $type-size-4-5: 1.12em !default; // Ubuntu Mono is a bit small
 
 @charset "utf-8";
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes";
 
-@import url(https://fonts.googleapis.com/css?family=Noto+Sans+KR|Ubuntu+Mono);    
+//@import url(https://fonts.googleapis.com/css?family=Noto+Sans+KR|Ubuntu+Mono);
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans+KR|Open+Sans);
 
 // https://github.com/mmistakes/minimal-mistakes/issues/1219
 html {

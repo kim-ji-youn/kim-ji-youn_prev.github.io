@@ -1,8 +1,8 @@
 ---
 permalink: /about/
-title: "About Me"
-last_modified_at: 2020-09-09
-toc: true
+title: "About"
+last_modified_at: 2021-01-26
+toc: false
 ---
 
 Hi! I am **Jiyoun**\[ ʣʲi.jʌn\]!

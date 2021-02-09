@@ -1,19 +1,19 @@
 ---
-title: "Git and Github"
+title: "Git & Github"
 date: 2021-02-10
 categories: ETC
 comments: true
 tags : [git, github]
-description: 더 이상 미룰 수 없다. Git and Github  
+description: 더 이상 미룰 수 없다. Git & Github  
 ---
-더 이상 미룰 수 없다. Git and Github   
+더 이상 미룰 수 없다. Git & Github   
  
 
 ## Git
-[생활코딩](https://opentutorials.org/module/3733)의 강의를 바탕으로 정리한 내용입니다.
-버전 관리 시스템
-Git Client
-Git Server (Git 원격저장소): 가장 대표적인 것이 Github!
+[생활코딩](https://opentutorials.org/module/3733)의 강의를 바탕으로 정리한 내용입니다.      
+Git은 버전 관리 시스템이다. 
+* Git Client
+* Git Server (Git 원격저장소): 가장 대표적인 것이 Github!
 
 ## GitHub
 마찬가지로 [생활코딩](https://opentutorials.org/module/4636)의 강의를 바탕으로 합니다.

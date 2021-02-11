@@ -49,8 +49,19 @@ Git은 대표적인 버전 관리 시스템이다.
 * TortoiseGit: window에서만 사용 가능
 * SourceTree: 복잡하지만 강력한 기능
 
-### Git2
-#### 1. 
+### Git2 - 버전관리
+#### 1. 수업소개
+* Git: GUI를 사용하지 않는 command line(-> POSIX CLI1)을 활용하여 사용
+
+#### 2. 설치(Windows)
+* https://git-scm.com/ 에서 다운로드
+* Git Bash로 콘솔 화면 열기
+
+#### 3. 버전관리의 시작
+특정한 디렉토리의 버전 관리를 위한 저장소를 초기화!
+* `git init .` : 현재 디렉토리를 git에 버전 관리하도록 저장소(repository)를 초기화(initialize)
+ * 디렉토리 내부에 `.git` 디렉토리가 생성됨
+
 
 ## GitHub
 마찬가지로 [생활코딩](https://opentutorials.org/module/4636)의 강의를 바탕으로 합니다.

@@ -54,7 +54,7 @@ Git은 대표적인 버전 관리 시스템이다.
 * Git: GUI를 사용하지 않는 command line(-> POSIX CLI1)을 활용하여 사용
 
 #### 2. 설치(Windows)
-* https://git-scm.com/ 에서 다운로드
+* <https://git-scm.com/> 에서 다운로드
 * Git Bash로 콘솔 화면 열기
 
 #### 3. 버전관리의 시작

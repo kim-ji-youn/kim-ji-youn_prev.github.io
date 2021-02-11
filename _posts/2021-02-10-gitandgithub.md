@@ -7,12 +7,27 @@ tags : [git, github]
 description: 더 이상 미룰 수 없다. Git & Github  
 ---
 더 이상 미룰 수 없다. Git & Github   
- 
 
 ## Git
 [생활코딩](https://opentutorials.org/module/3733)의 강의를 바탕으로 정리한 내용입니다.      
 
-Git은 버전 관리 시스템이다. 
+### Git1-1. 수업소개
+Git은 대표적인 버전 관리 시스템이다.   
+소스 코드를 관리하기 위하여 사용하는 것이 Git이다. 
+
+### Git1-2. git을 구경합시다!
+**git의 3대 목적**
+* 버전관리(version)
+* 백업(backup)
+* 협업(collaborate)
+
+### Git1-3. git의 목적1 - 버전관리
+같은 파일에 수정을 하더라도 버전 생성을 통해 문서/파일들의 변경 사항을 계속 반영할 수 있게 된다. 
+
+### Git1-4. git의 목적2 - 백업
+
+
+
 * Git Client
 * Git Server (Git 원격저장소): 가장 대표적인 것이 Github!
 

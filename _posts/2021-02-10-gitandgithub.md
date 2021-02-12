@@ -63,12 +63,15 @@ Git은 대표적인 버전 관리 시스템이다.
  * 디렉토리 내부에 `.git` 디렉토리가 생성됨
  
 #### 4. 버전 생성
+
 * Working Tree: 수정하고 있는 파일들
  * 새로운 버전이 만들어지기 전 단계의 파일들, 작업 중인 파일들
  * `git add FILE_NAME` 명령어를 통해 버전 관리하고 싶은 파일들을 staging area로 이동
+ 
 * Staging Area: 버전을 만드려고 하는 파일들
  * 버전으로 만들어 저장소에 저장할 파일들, 버전을 생성할 때, staging area에 있는 파일들만 모아 하나의 버전을 생성, commit하고 싶은 파일들
  * `git commit -m MESSEAGE` 명령어를 통해 버전 관리하고 싶은 파일들을 repository로 
+
 * Repository(저장소): 버전이 저장되는 곳, 만들어진 버전
 
 * `git status`: 파일의 버전 관리 상태(working tree status)

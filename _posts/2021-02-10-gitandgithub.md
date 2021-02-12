@@ -40,7 +40,7 @@ Git은 대표적인 버전 관리 시스템이다.
 * pull: 원격 저장소에서 로컬 저장소로!
 
 * 두 사람이 같은 파일을 수정하는 경우?
-* 두 사람이 같은 행을 수정하는 경우?
+* 두 사람이 같은 행을 수정하는 경우? <br/>
 ---> git을 통해 해결! 덮어쓰기와 같은 불상사를 방지해준다..
 
 #### 6. git의 종류
@@ -65,23 +65,21 @@ Git은 대표적인 버전 관리 시스템이다.
 #### 4. 버전 생성
 
 * Working Tree: 수정하고 있는 파일들
- * 새로운 버전이 만들어지기 전 단계의 파일들, 작업 중인 파일들
- * `git add FILE_NAME` 명령어를 통해 버전 관리하고 싶은 파일들을 staging area로 이동
- 
+  * 새로운 버전이 만들어지기 전 단계의 파일들, 작업 중인 파일들
+  * `git add FILE_NAME` 명령어를 통해 버전 관리하고 싶은 파일들을 staging area로 이동
 * Staging Area: 버전을 만드려고 하는 파일들
- * 버전으로 만들어 저장소에 저장할 파일들, 버전을 생성할 때, staging area에 있는 파일들만 모아 하나의 버전을 생성, commit하고 싶은 파일들
- * `git commit -m MESSEAGE` 명령어를 통해 버전 관리하고 싶은 파일들을 repository로 
-
+  * 버전으로 만들어 저장소에 저장할 파일들, 버전을 생성할 때, staging area에 있는 파일들만 모아 하나의 버전을 생성, commit하고 싶은 파일들
+  * `git commit -m MESSEAGE` 명령어를 통해 버전 관리하고 싶은 파일들을 repository로 
 * Repository(저장소): 버전이 저장되는 곳, 만들어진 버전
 
 * `git status`: 파일의 버전 관리 상태(working tree status)
- * `No commits yet'
-  * `Untracked files`: 파일을 아직 버전 관리 대상으로 설정하지 않았을 때 나타나는 메시지 (-> git add 명령어를 이용하여 파일을 staging area로 이동)
-  * `Changes to be committed` : 버전 관리 대상인 파일들이 있음을 나타내는 메시지 (-> git commit 명령어를 이용하여 repository에 버전을 생성)
- * `On branch master`
-  * `nothing to commit, working tree clean`: 버전 관리 대상 파일을 모두 commit한 상태, staging area에서 repository로 파일들이 모두 이동.  
-  * `Changes not staged for commit` : working tree에서 수정 사항이 있음을 알려주는 메시지 (-> git add 명령어를 이용하여 stageing area로 이동)
-  * `Changes to be committed`: staging area에 버전 관리 대상 파일들이 있음을 나타내는 메시지 (-> git commit 명령어를 이용하여 repository에 버전 생성)
+  * `No commits yet'
+    * `Untracked files`: 파일을 아직 버전 관리 대상으로 설정하지 않았을 때 나타나는 메시지 (-> git add 명령어를 이용하여 파일을 staging area로 이동)
+    * `Changes to be committed` : 버전 관리 대상인 파일들이 있음을 나타내는 메시지 (-> git commit 명령어를 이용하여 repository에 버전을 생성)
+  * `On branch master`
+    * `nothing to commit, working tree clean`: 버전 관리 대상 파일을 모두 commit한 상태, staging area에서 repository로 파일들이 모두 이동.  
+    * `Changes not staged for commit` : working tree에서 수정 사항이 있음을 알려주는 메시지 (-> git add 명령어를 이용하여 stageing area로 이동)
+    * `Changes to be committed`: staging area에 버전 관리 대상 파일들이 있음을 나타내는 메시지 (-> git commit 명령어를 이용하여 repository에 버전 생성)
   
 * `git add FILE_NAME`: working tree에서 생성/수정된 파일을 staging area로 이동(add to staging area)
 * `git commit -m '<message>'`: staging area에서 repository로 이동하여 버전 생성(create version)

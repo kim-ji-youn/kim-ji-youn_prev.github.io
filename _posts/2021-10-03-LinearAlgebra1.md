@@ -3,7 +3,7 @@ title: "선형대수학1 - 개요"
 date: 2021-10-03
 categories: Linear Algebra
 comments: true
-tags : [linear_algebra][matrix]
+tags : [linear_algebra]
 toc: true
 description: 기본적인 개념 익히기
 ---

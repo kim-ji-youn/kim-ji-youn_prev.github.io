@@ -1,7 +1,7 @@
 ---
 title: "선형대수학1 - 개요"
 date: 2021-10-03
-categories: Linear Algebra
+categories: Linear\sAlgebra
 comments: true
 tags : [linear_algebra]
 toc: true
